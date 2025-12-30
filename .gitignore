@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Media inputs/outputs (keep out of git)
+*.mov
+*.MOV
+*.mp4
+*.MP4
+*.avi
+*.AVI
+*.png
+*.jpg
+*.jpeg
+
+# Generated CSVs
+*_frames.csv
+*_hits.csv
+*_arcs.csv
+ball_track.csv
+
+# Temporary outputs
+_tmp_*
