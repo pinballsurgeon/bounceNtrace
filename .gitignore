@@ -13,6 +13,7 @@ __pycache__/
 *.png
 *.jpg
 *.jpeg
+!img/*.png
 
 # Generated CSVs
 *_frames.csv

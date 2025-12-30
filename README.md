@@ -2,6 +2,8 @@
 
 Video analytics for ball tracking and scoreboard overlays using OpenCV.
 
+![Demo](img/img1.png)
+
 ## Setup
 
 ```bash
